@@ -1,0 +1,18 @@
+# INSTALL #
+from project root run the command:
+npm install
+
+# UNIT TESTS #
+from project root run the command:
+npm test
+
+# RUNNING GAME #
+Open 3 terminal windows in project root
+
+In one terminal run the command:
+node server.js
+
+In the other 2 run:
+node client.js
+
+Follow the instructions presented in the console to play.
